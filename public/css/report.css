@@ -1,0 +1,22 @@
+@media print {
+    body {
+        -webkit-print-color-adjust: exact;
+    }
+	.table th{
+		background-color: #00ccff !important;
+		border-color: black !important;
+	}
+	.table td {
+		border-color: black !important;
+	}
+}
+.table{
+	border-color: black !important;
+}
+.table th{
+	background-color: #00ccff !important;
+	border-color: black !important;
+}
+.table td {
+	border-color: black !important;
+}
